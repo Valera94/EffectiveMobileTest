@@ -12,4 +12,5 @@
 Выбираем внешний обработчик и нажимаем.
 <img width="1428" height="755" alt="image" src="https://github.com/user-attachments/assets/b8020291-d0ba-4d7b-a451-725c13bde4d2" />
 Результат.
-<img width="1433" height="758" alt="image" src="https://github.com/user-attachments/assets/510653a4-2f05-49e1-ab93-2e4a3232bd46" />
+<img width="1432" height="759" alt="image" src="https://github.com/user-attachments/assets/782a05b3-557b-4d7a-a7d7-71772aea78d4" />
+
