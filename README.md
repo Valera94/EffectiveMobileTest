@@ -14,6 +14,6 @@
 Результат.
 <img width="1432" height="759" alt="image" src="https://github.com/user-attachments/assets/782a05b3-557b-4d7a-a7d7-71772aea78d4" />
 
-# Фидбек !
+# Фидбек ! Дорабатываем...
 
 <img width="1031" height="649" alt="image" src="https://github.com/user-attachments/assets/71457b1b-ce9c-4737-8de4-cedd08470e1d" />
